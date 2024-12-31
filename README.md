@@ -68,6 +68,9 @@
 -	Regular supplier performance reviews
 -	Dashboard updates and maintenance
 
+_ Dashboard Interaction : <a href="https://github.com/anass-ab/Data_Analysys_Dashboard/blob/main/Screen%20Shot%202024-12-25%20at%2012.35.49%20PM.png">View Dashboard</a>
+
+
 ##  Project Insights :
 
  # 1	Quality Management:
