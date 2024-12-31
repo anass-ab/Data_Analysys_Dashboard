@@ -67,3 +67,28 @@
 -	Trend analysis of key metrics
 -	Regular supplier performance reviews
 -	Dashboard updates and maintenance
+
+##  Project Insights :
+
+ # 1	Quality Management:
+ -	Wide variation in supplier performance
+	-	Three suppliers meeting or exceeding 80% threshold
+	-	Two suppliers requiring immediate improvement
+	# 2	Delivery Performance:
+	-	Lead times averaging around 9-10 days
+	-	Consistent trend in lead times over the period
+	-	Room for improvement in on-time delivery rates
+	# 3 Risk Areas:
+	-	Suppliers 1 & 2 showing high rejection rates
+	-	Availability fluctuations indicating potential supply chain instability
+	-	Variable defect rates suggesting quality control issues
+
+## Project Conclusion :
+
+The supply chain analysis reveals a mixed performance across suppliers. While overall metrics show reasonable performance (91.4% availability, 4.2% defect rate), there are clear areas needing attention:
+
+ 1	Immediate focus needed on Suppliers 1 & 2 to improve their performance
+	2	Implementation of stricter quality control measures to reduce defect rates
+	3	Standardization of delivery processes to improve consistency
+	4	Development of supplier improvement programs for underperforming vendors
+
